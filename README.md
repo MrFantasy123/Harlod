@@ -29,7 +29,7 @@ Since then, HARLOD has been fully managed by its community with a single mission
 
 ## 🔹 Ecosystem
 - **Website:** [https://harlod.xyz](https://harlod.xyz)  
-- **Whitepaper:** [Link to Whitepaper](whitepaper.pdf)  
+- **Whitepaper:** [https://github.com/MrFantasy123/Harlod/blob/main/whitepaper.pdf](whitepaper.pdf)  
 - **NFT Collection:** [LaunchMyNFT – HARLOD](https://www.launchmynft.io/collections/9AfibxQ6uE75KLo5CTCc9hhyomuE8TMzpgEn3L4hXWSo/tcVaNfFSd8IeJ6y8lw50)  
 
 ---
